@@ -1,2 +1,2 @@
-# Lotto
+# Lottó
 Lottó számok és oldalak
